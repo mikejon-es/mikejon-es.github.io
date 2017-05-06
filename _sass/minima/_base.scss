@@ -206,5 +206,9 @@ pre {
 .grid-item { width: 20%; }
 @include media-query($on-palm){
   .grid-sizer,
+  .grid-item { width: 50%; }
+}
+@include media-query($on-laptop){
+  .grid-sizer,
   .grid-item { width: 33.3%; }
 }
