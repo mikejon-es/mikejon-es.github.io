@@ -16,11 +16,13 @@
 title: Mike Jones
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal site of Mike Jones. Drupal architect & site builder, Digital publishing guru, IT extraordinaire, Freelance consultant and National Park enthusiast. 
+  Personal site of Mike Jones. Drupal architect & site builder, Digital publishing guru, IT extraordinaire, Freelance consultant and National Park enthusiast.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mjonesel
 github_username:  mikejon-es
+linkedin_username: mjones85
+drupal_username: mikejon-es
 
 # Build settings
 markdown: kramdown
