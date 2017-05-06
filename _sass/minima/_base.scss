@@ -200,11 +200,11 @@ pre {
 /**
 * Masonry Grid
 **/
-.grid-item { width: 200px; }
-.grid-item--width2 { width: 400px; }
 
 /* fluid 5 columns */
 .grid-sizer,
 .grid-item { width: 20%; }
-/* 2 columns */
-.grid-item--width2 { width: 40%; }
+@include media-query($on-palm){
+  .grid-sizer,
+  .grid-item { width: 33.3%; }
+}
