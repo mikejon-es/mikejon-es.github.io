@@ -4,4 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-Testing 123
+I'm a **Web Architect** and **UX Specialist** based in Lansing, MI.
+
+My favorite system is **Drupal**
+
+I work for **FAITH Catholic** building Drupal websites and designing publishing solutions.
