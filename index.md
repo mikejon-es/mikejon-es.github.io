@@ -9,3 +9,5 @@ I'm a **Web Architect** and **UX Specialist** based in Lansing, MI.
 My favorite CMS is **Drupal**
 
 I work for **FAITH Catholic** building Drupal websites and designing publishing solutions.
+
+I also am avilable as a **Freelance** consultant for website and digital media projects. 
